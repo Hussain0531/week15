@@ -4,8 +4,8 @@ on:
     branches:
       - develop
 jobs:
-  ci-development-job:
-  runs-on: ubuntu-latest
+  linting-job:
+    runs-on: ubuntu-latest
   steps:
     - name: checkout repository
       uses: actions/checkout@v4
