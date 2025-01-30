@@ -1,0 +1,10 @@
+body{
+    color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    margin:0;
+}
+h1{
+    font-size: 4em;
+}
